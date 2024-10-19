@@ -1,7 +1,7 @@
 # Enquiry Chatbot - "QUEST"
 Developed an AI - powered chatbot using WatsonX Assisstant on IBM Cloud platform with leveraged NLP for user interaction. The chatbot shows information about the travel enquiry through Bus and Train for both Interstate and Intrastate. You can also book tickets using the chatbot.
 
-![image](https://github.com/user-attachments/assets/5ae3d14b-a3ee-492b-8281-4d36d7e9f604)  ![image](https://github.com/user-attachments/assets/6a0a1577-b0c5-4a11-b388-25941c73080b)
+![image](https://github.com/user-attachments/assets/5ae3d14b-a3ee-492b-8281-4d36d7e9f604) ![image](https://github.com/user-attachments/assets/6a0a1577-b0c5-4a11-b388-25941c73080b)
 
 ![image](https://github.com/user-attachments/assets/9e816f16-b2a6-4d41-b2e8-5039743ac8b9)  ![image](https://github.com/user-attachments/assets/5ff84d17-3a88-474e-8411-ef700d4ca8f8)
 
